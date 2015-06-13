@@ -1,0 +1,1 @@
+Math race game server code for 3d engine. This will obviously right now have one instance and hopefully multiple clients can connect and play. It should track players scores etc. but more importantly for 3d it needs to track positional info and broadcast them to clients.
